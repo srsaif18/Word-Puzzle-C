@@ -1,6 +1,6 @@
-# Bus Reservation System Management
+# Word Puzzle
 
-Bus Reservation System Management Project in C++.
+Word Puzzle Game Project in C.
 
 ## Usage
 
@@ -18,15 +18,15 @@ g++ -o main main.cpp
 
 ### Main Menu
 
-![Screenshot 1](screenshots/home.png "Main Menu")
+![Screenshot 1](screenshots/1.png "Main Menu")
 
 ### Game Menu
 
-![Screenshot 2](screenshots/add-bus.png "Game Menu")
+![Screenshot 2](screenshots/2.png "Game Menu")
 
 ### Game Solution
 
-![Screenshot 3](screenshots/add-passenger.png "Game Solution")
+![Screenshot 3](screenshots/3.png "Game Solution")
 
 ## Connect With Me
 
